@@ -1,4 +1,4 @@
-# Swiggy-Sales-Analysis-
+# Swiggy Sales Analysis
 
 ---
 
