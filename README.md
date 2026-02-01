@@ -12,6 +12,8 @@ The dataset includes key attributes such as order dates, sales amount (₹), rat
 
 [Swiggy.dataset]("Dataset/swiggy_data.xlsx")
 
+---
+
 ### 🔍 Key Business KPIs Analyzed
 
 * **Total Sales (₹):** Overall revenue generated from food orders
