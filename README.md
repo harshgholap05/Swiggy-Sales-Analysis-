@@ -10,8 +10,7 @@ The dataset includes key attributes such as order dates, sales amount (₹), rat
 
 ## 📁 Dataset
 
-[[Swiggy Excel Data]("Dataset/swiggy_data.xlsx")
-](https://github.com/harshgholap05/Swiggy-Sales-Analysis-/blob/main/Dataset/swiggy_data.xlsx)
+[Swiggy Excel Data]("https://github.com/harshgholap05/Swiggy-Sales-Analysis-/blob/main/Dataset/swiggy_data.xlsx")
 
 ## Direct Project File
 [Swiggy Sales Analyis Project]("https://github.com/harshgholap05/Swiggy-Sales-Analysis-/blob/main/Swiggy%20Sales%20Analysis.ipynb")
