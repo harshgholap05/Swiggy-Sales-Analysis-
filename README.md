@@ -1,7 +1,5 @@
 # Swiggy Sales Analysis
 
----
-
 ## 📌 Project Description (for GitHub / README)
 
 ### Swiggy Sales & Performance Analysis using Python and Data Visualization
