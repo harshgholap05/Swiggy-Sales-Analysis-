@@ -1,8 +1,6 @@
-# Swiggy Sales Analysis
+# Swiggy Sales Analysis 
 
-## 📌 Project Description (for GitHub / README)
-
-### Swiggy Sales & Performance Analysis using Python and Data Visualization
+### 📌 Swiggy Sales & Performance Analysis using Python and Data Visualization
 
 This project focuses on analyzing Swiggy food delivery data to gain meaningful business insights related to sales performance, customer behavior, and regional trends. The goal is to transform raw order-level data into clear, actionable insights that can help stakeholders understand revenue patterns, customer satisfaction, and operational performance.
 
