@@ -10,11 +10,9 @@ The dataset includes key attributes such as order dates, sales amount (₹), rat
 
 ## 📁 Dataset
 
-[Swiggy.dataset]("Dataset/swiggy_data.xlsx")
+[Swiggy Excel Data]("Dataset/swiggy_data.xlsx")
 
----
-
-### 🔍 Key Business KPIs Analyzed
+## 🔍 Key Business KPIs Analyzed
 
 * **Total Sales (₹):** Overall revenue generated from food orders
 * **Total Orders:** Number of orders placed
@@ -22,7 +20,7 @@ The dataset includes key attributes such as order dates, sales amount (₹), rat
 * **Average Rating:** Customer satisfaction indicator
 * **Ratings Count:** Total customer feedback received
 
-### 📊 Visualizations & Insights
+## 📊 Visualizations & Insights
 
 The project includes multiple visualizations to highlight trends and patterns:
 
@@ -33,7 +31,7 @@ The project includes multiple visualizations to highlight trends and patterns:
 * **Sales by Food Type (Veg vs Non-Veg):** Compares revenue contribution
 * **State-wise Sales Map:** Visualizes geographical distribution of revenue
 
-### 🎯 Outcomes
+## 🎯 Outcomes
 
 This analysis helps in:
 
@@ -42,7 +40,7 @@ This analysis helps in:
 * Tracking business growth over time
 * Supporting data-driven decision making
 
-### 🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 * Python
 * Pandas, NumPy
