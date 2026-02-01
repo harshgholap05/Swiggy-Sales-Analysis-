@@ -13,7 +13,7 @@ The dataset includes key attributes such as order dates, sales amount (₹), rat
 [Swiggy Excel Data]("Dataset/swiggy_data.xlsx")
 
 ## Direct Project File
-[Swiggy Sales Analyis Project]("https://github.com/harshgholap05/Swiggy-Sales-Analysis-/blob/main/Swiggy%20Sales%20Analysis.ipynb")
+[Swiggy Sales Analyis Project]("Swiggy Sales Analysis.ipynb")
 
 ## 🔍 Key Business KPIs Analyzed
 
